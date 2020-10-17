@@ -1,1 +1,1 @@
-# JanOstrowka.github.io
+# janostrowka.github.io
