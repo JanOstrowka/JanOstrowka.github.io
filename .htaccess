@@ -1,1 +1,2 @@
-# janostrowka.github.io
+# redirect janostrowka.github.io to janostrowka.com
+Redirect 301 / https://janostrowka.com/
